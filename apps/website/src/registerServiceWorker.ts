@@ -14,8 +14,8 @@ if (process.env.NODE_ENV === "production") {
         ready() {
             console.log(
                 "App is being served from cache by a service worker.\n" +
-      "For more details, visit https://goo.gl/AFskqB\n\n" +
-      "Contact contact@hzmi.xyz, if you found any error."
+                "For more details, visit http://sh.hzmi.me/vue-pwa\n\n",
+                "Contact contact@hzmi.xyz, if you found any error."
             );
         },
         registered() {
@@ -26,7 +26,7 @@ if (process.env.NODE_ENV === "production") {
             registration.unregister().catch(console.error);
             setTimeout(() => {
                 // eslint-disable-next-line no-alert
-                window.confirm("New content is available, do you want to refreh this page?") ? window.location.reload(true) : console.log("Waiting for next reload...");
+                window.confirm("New content is available, do you want to refresh this page?") ? window.location.reload(true) : console.log("Waiting for next reload...");
             }, 1000);
         },
         updatefound() {
