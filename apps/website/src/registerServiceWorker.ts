@@ -14,7 +14,7 @@ if (process.env.NODE_ENV === "production") {
         ready() {
             console.log(
                 "App is being served from cache by a service worker.\n" +
-                "For more details, visit http://sh.hzmi.me/vue-pwa\n\n",
+                "For more details, visit http://sh.hzmi.me/vue-pwa\n\n" +
                 "Contact contact@hzmi.xyz, if you found any error."
             );
         },
