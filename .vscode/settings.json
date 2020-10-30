@@ -9,5 +9,6 @@
         "typescriptreact",
         "vue"
     ],
-    "vetur.validation.template": false
+    "vetur.validation.template": false,
+    "files.eol": "\n"
 }
