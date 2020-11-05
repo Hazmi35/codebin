@@ -1,4 +1,4 @@
-import type Vue from "vue";
+import Vue from "vue";
 
 declare global {
     namespace JSX {
