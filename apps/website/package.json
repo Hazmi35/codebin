@@ -23,7 +23,7 @@
   "devDependencies": {
     "@hazmi35/eslint-config": "^3.4.0",
     "@typescript-eslint/eslint-plugin": "^4.9.1",
-    "@typescript-eslint/parser": "^4.9.0",
+    "@typescript-eslint/parser": "^4.9.1",
     "@vue/cli-plugin-babel": "^4.5.9",
     "@vue/cli-plugin-eslint": "^4.5.9",
     "@vue/cli-plugin-pwa": "^4.5.9",
