@@ -905,10 +905,10 @@
   dependencies:
     "@hapi/hoek" "^8.3.0"
 
-"@hazmi35/eslint-config@^3.3.0":
-  version "3.3.0"
-  resolved "https://registry.yarnpkg.com/@hazmi35/eslint-config/-/eslint-config-3.3.0.tgz#795bc91b0c445e6fffe2235ad81ddacb3dc8a8ab"
-  integrity sha512-hC5vBPDfTB7L0fmAxgivDt2Za8CFTQk/LVvL24tBfu500RE59Q3PSl74+yyE4HhQRLSWrJdHESXXecdh1Z/KSA==
+"@hazmi35/eslint-config@^3.4.0":
+  version "3.4.0"
+  resolved "https://registry.yarnpkg.com/@hazmi35/eslint-config/-/eslint-config-3.4.0.tgz#279870615a2e939f415105db6382458395e0627a"
+  integrity sha512-TxyxydtJOZfEpI5TUngLun+CQTTpV3zPG9iuyEIk1gdDdV3TulXri7xD6qOU7A4FVuARkE/KLE6UyT37btbBAg==
 
 "@intervolga/optimize-cssnano-plugin@^1.0.5":
   version "1.0.6"
